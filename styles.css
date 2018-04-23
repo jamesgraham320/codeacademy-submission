@@ -1,0 +1,29 @@
+body {
+	color: seashell;
+	background-color: black;
+	font-size: 22px;
+	font-family: Helvetica;
+	opacity: 0.9;
+}
+
+.corner-logo {
+	height: 50px;
+	margin: 10px;
+	float: left;
+}
+
+.header {
+	height: 69px;
+	display: fixed;
+	justify-content: space-between;
+	border-bottom: 1px solid seashell;
+}
+
+.navbar {
+	float: right;
+}
+
+.navbar span {
+	text-decoration: underline;
+	margin: 0 auto
+}
